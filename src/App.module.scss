@@ -1,0 +1,19 @@
+.navigation {
+  box-shadow: 0 4px 6px -6px #222;
+  padding: 25px 0;
+}
+
+.link {
+  color: #212121;
+}
+
+.active-link {
+  color: #973b3b;
+}
+
+.link,
+.active-link {
+  text-decoration: none;
+  font-size: larger;
+  margin-left: 20px;
+}
