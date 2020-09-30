@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.module.scss"],"names":[],"mappings":"AAAA,uBACE,gBAAiB,CAKlB,+CAGC,UAAc","file":"home.23900916.chunk.css","sourcesContent":[".heading {\n  margin-left: 25px;\n}\n\n.link {\n  color: #0000ee;\n}\n\n.active-link {\n  color: #0000ee;\n}\n"]}

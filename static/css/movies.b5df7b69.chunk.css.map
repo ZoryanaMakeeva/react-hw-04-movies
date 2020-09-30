@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.module.scss"],"names":[],"mappings":"AAAA,2BACE,uBAAwB,CACxB,WAAY,CAKb,+CAGC,UAAc","file":"movies.b5df7b69.chunk.css","sourcesContent":[".searchInput {\n  margin: 15px 0 15px 15px;\n  width: 200px;\n}\n\n.link {\n  color: #0000ee;\n}\n\n.active-link {\n  color: #0000ee;\n}\n"]}
